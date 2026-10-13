@@ -802,3 +802,5 @@ details[open] summary::after { transform: rotate(225deg); margin-top: 4px; }
   white-space: nowrap;
   border: 0;
 }
+.note.center { text-align: center; }
+@media (min-width: 720px) { .grid.grid-2 { grid-template-columns: repeat(2, 1fr); } }
