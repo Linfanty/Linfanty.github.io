@@ -296,12 +296,6 @@ h1, h2, h3 {
 .btn-solid:hover { background: #FF7769; }
 .btn-ghost { border: 1px solid var(--line-strong); color: var(--text); }
 .btn-ghost:hover { background: rgba(255, 255, 255, 0.05); }
-.btn-soon {
-  border: 1px dashed var(--accent-line);
-  color: var(--text);
-  background: var(--accent-soft);
-  cursor: default;
-}
 
 .fine {
   margin: 16px 0 0;
